@@ -1,0 +1,4 @@
+for (var i=0;i<someName.length;i++){
+	for someName[i].charAt(0) = "J",
+	console.log("Goodbye J"+someName[i])
+	else console.log("Hello "+someName[i]")}
