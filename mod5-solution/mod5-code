@@ -1,5 +1,5 @@
 <li id="navMenuButton">
-	var i.onclick=getNumber;
+	var i=getNumber;
 	function getNumber() {
     		var minNumber = 0; 
    		var maxNumber = 24; 
