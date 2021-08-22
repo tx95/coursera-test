@@ -1,0 +1,13 @@
+<li id="navMenuButton">
+	var i=getNumber;
+	function getNumber() {
+    var minNumber = 0; 
+    var maxNumber = 24; 
+    var randomnumber = Math.floor(Math.random() * (maxNumber + 1) + minNumber); 
+    $('#myNumber').html(randomnumber); 
+    return false; 
+}
+              <a href="#" onclick="$dc.loadMenuCategories[i]">
+              
+                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> Menu</a>
+            </li>
